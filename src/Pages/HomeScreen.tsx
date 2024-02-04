@@ -1,7 +1,3 @@
-import SpeechRecognition, {
-  useSpeechRecognition,
-} from "react-speech-recognition";
-import { FaMicrophone, FaStop } from "react-icons/fa";
 import { Link } from "react-router-dom";
 
 document.title = "Homepage";
